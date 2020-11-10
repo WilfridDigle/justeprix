@@ -1,0 +1,28 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../img/fond.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+}
+#logo {
+    height: 50vh;
+}
+#play {
+    width: 30vw;
+    height: 20vh;
+    font-size: 4vw;
+    color: white;
+    text-shadow: 2px 5px 0 #9f968f;
+    background-color: #c38a20;
+}
+.title {
+    color: #c38a20;
+    text-shadow: 1px 1px 0 #9f968f;
+    font-size: 3vw;
+}
+#result {
+    text-shadow: 1px 1px 0 white;
+}
